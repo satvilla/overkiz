@@ -1,16 +1,16 @@
 {
   "domain": "overkiz",
   "name": "Overkiz",
-  "codeowners": ["@imicknl"],
+  "codeowners": ["@satvilla"],
   "config_flow": true,
-  "dependencies": ["application_credentials"],
+   "dependencies": ["application_credentials"],
   "dhcp": [
     {
       "hostname": "gateway*",
       "macaddress": "F8811A*"
     }
   ],
-  "documentation": "https://www.home-assistant.io/integrations/overkiz",
+  "documentation": "https://github.com/satvilla/overkiz",
   "integration_type": "hub",
   "iot_class": "local_polling",
   "loggers": ["boto3", "botocore", "pyoverkiz", "s3transfer"],
@@ -24,5 +24,6 @@
       "name": "gateway*",
       "type": "_kizboxdev._tcp.local."
     }
-  ]
+  ],
+  "version": "1.0.0"
 }
