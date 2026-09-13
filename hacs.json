@@ -1,6 +1,7 @@
 {
   "name": "Overkiz",
   "hide_default_branch": true,
+  "render_readme": true,
   "hacs": "1.6.0",
   "homeassistant": "2023.11"
 }
