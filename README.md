@@ -253,4 +253,4 @@ The purpose of this repository is to extend and improve support for specific Ove
 [commits]: https://github.com/satvilla/overkiz/commits/main
 [license-shield]: https://img.shields.io/github/license/satvilla/overkiz.svg?style=for-the-badge
 [license]: https://github.com/satvilla/overkiz/blob/main/LICENSE
-[ha-logo]: https://brands.home-assistant.io/_/home-assistant/icon.png
+[ha-logo]: https://brands.home-assistant.io/_/homeassistant/icon.png
